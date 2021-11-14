@@ -85,80 +85,118 @@ echo #	127.0.0.1       localhost >> hosts
 echo #	::1             localhost >> hosts
 echo. >> hosts
 echo 0.0.0.0 adclick.g.doublecklick.net >> hosts
+echo adclick.g.doublecklick.net
 echo. >> hosts
 echo 0.0.0.0 adeventtracker.spotify.com >> hosts
+echo adeventtracker.spotify.com
 echo. >> hosts
 echo 0.0.0.0 ads-fa.spotify.com >> hosts
+echo ads-fa.spotify.com
 echo. >> hosts
 echo 0.0.0.0 analytics.spotify.com >> hosts
+echo analytics.spotify.com
 echo. >> hosts
 echo 0.0.0.0 audio2.spotify.com >> hosts
+echo audio2.spotify.com
 echo. >> hosts
 echo 0.0.0.0 b.scorecardresearch.com >> hosts
+echo b.scorecardresearch.com
 echo. >> hosts
 echo 0.0.0.0 bounceexchange.com >> hosts
+echo bounceexchange.com
 echo. >> hosts
 echo 0.0.0.0 bs.serving-sys.com >> hosts
+echo bs.serving-sys.com
 echo. >> hosts
 echo 0.0.0.0 content.bitsontherun.com >> hosts
+echo content.bitsontherun.com
 echo. >> hosts
 echo 0.0.0.0 core.insightexpressai.com >> hosts
+echo core.insightexpressai.com
 echo. >> hosts
 echo 0.0.0.0 crashdump.spotify.com >> hosts
+echo crashdump.spotify.com
 echo. >> hosts
 echo 0.0.0.0 d2gi7ultltnc2u.cloudfront.net >> hosts
+echo d2gi7ultltnc2u.cloudfront.net
 echo. >> hosts
 echo 0.0.0.0 d3rt1990lpmkn.cloudfront.net >> hosts
+echo d3rt1990lpmkn.cloudfront.net
 echo. >> hosts
 echo 0.0.0.0 desktop.spotify.com >> hosts
+echo desktop.spotify.com
 echo. >> hosts
 echo 0.0.0.0 doubleclick.net >> hosts
+echo doubleclick.net
 echo. >> hosts
 echo 0.0.0.0 ds.serving-sys.com >> hosts
+echo ds.serving-sys.com
 echo.  >> hosts
 echo 0.0.0.0 googleadservices.com >> hosts
+echo googleadservices.com
 echo. >> hosts
 echo 0.0.0.0 googleads.g.doubleclick.net >> hosts
+echo googleads.g.doubleclick.net
 echo. >> hosts
 echo 0.0.0.0 gtssl2-ocsp.geotrust.com >> hosts
+echo gtssl2-ocsp.geotrust.com
 echo. >> hosts
 echo 0.0.0.0 js.moatads.com >> hosts
+echo js.moatads.com
 echo.  >> hosts
 echo 0.0.0.0 log.spotify.com >> hosts
+echo log.spotify.com
 echo. >> hosts
 echo 0.0.0.0 media-match.com >> hosts
+echo media-match.com
 echo. >> hosts
 echo 0.0.0.0 omaze.com >> hosts
+echo omaze.com
 echo.  >> hosts
 echo 0.0.0.0 open.spotify.com >> hosts
+echo open.spotify.com
 echo. >> hosts
 echo 0.0.0.0 pagead46.l.doubleclick.net >> hosts
+echo pagead46.l.doubleclick.net
 echo. >> hosts
 echo 0.0.0.0 pagead2.googlesyndication.com >> hosts
+echo pagead2.googlesyndication.com
 echo. >> hosts
 echo 0.0.0.0 partner.googleadservices.com >> hosts
+echo partner.googleadservices.com
 echo. >> hosts
 echo 0.0.0.0 pubads.g.doubleclick.net >> hosts
+echo pubads.g.doubleclick.net
 echo. >> hosts
 echo 0.0.0.0 redirector.gvt1.com >> hosts
+echo redirector.gvt1.com
 echo. >> hosts
 echo 0.0.0.0 s0.2mdn.net >> hosts
+echo s0.2mdn.net
 echo. >> hosts
 echo 0.0.0.0 securepubads.g.doubleclick.net >> hosts
+echo securepubads.g.doubleclick.net
 echo. >> hosts
 echo 0.0.0.0 spclient.wg.spotify.com >> hosts
+echo spclient.wg.spotify.com
 echo. >> hosts
 echo 0.0.0.0 tpc.googlesyndication.com >> hosts
+echo tpc.googlesyndication.com
 echo.  >> hosts
 echo 0.0.0.0 v.jwpcdn.com >> hosts
+echo v.jwpcdn.com
 echo.  >> hosts
 echo 0.0.0.0 video-ad-stats.googlesyndication.com >> hosts
+echo video-ad-stats.googlesyndication.com
 echo.  >> hosts
 echo 0.0.0.0 weblb-wg.gslb.spotify.com >> hosts
+echo weblb-wg.gslb.spotify.com
 echo. >> hosts
 echo 0.0.0.0 www.googleadservices.com >> hosts
+echo www.googleadservices.com
 echo. >> hosts
 echo 0.0.0.0 www.omaze.com >> hosts
+echo www.omaze.com
 timeout /t 3
 echo  ________  ________  _____ ______   ________  ___       _______  _________  _______   ________         
 echo ^|\   ____\^|\   __  \^|\   _ \  _   \^|\   __  \^|\  \     ^|\  ___ \^|\___   ___\\  ___ \ ^|\   ___ \        
